@@ -8,7 +8,7 @@
 2. If you enter the AppName variable, the subscription url and QR code are automatically generated.
 3. After the server is deployed, click "open app" to display the webpage normally. After the URL is filled with "pattern", the visit displays "Bad Request", indicating that the deployment is successful.
 4. Enter the configuration into the relevant software, enjoy~
-
+【5.Do Not use the last version ,use "3.36 "】
 Default QR code url: https://{appname}.herokuapp.com/subscription/qrcode.png <br/>
 Default subscription url: https://{appname}.herokuapp.com/subscription
 - - -
